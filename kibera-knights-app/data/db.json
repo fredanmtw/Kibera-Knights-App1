@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1e7ffec27baf3c2d",
+      "username": "admin",
+      "name": "Club Administrator",
+      "role": "admin",
+      "pw": "dfe74e2d2baf2c224dd212e79c32e5ff:d669c6da9ad67fba0946efc10090ef25504b23902ccb7fad3edf545755b2244c1cd26dbff8a4557e2f3904f4d5e7f098d967ed2a8b19798e888b7a8bef2b9e73",
+      "mustChange": true
+    }
+  ],
+  "players": [],
+  "coaches": [],
+  "tournaments": [],
+  "results": []
+}
